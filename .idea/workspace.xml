@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e2f44c-ad17-44cf-b86d-d62114734139" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="98e2f44c-ad17-44cf-b86d-d62114734139" name="Changes" comment="Adição das classes &quot;mentoria&quot; e &quot;curso&quot;">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646759760494</updated>
-      <workItem from="1646759761633" duration="1184000" />
+      <workItem from="1646759761633" duration="2646000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1646759898458</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646759898458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adição das classes &quot;mentoria&quot; e &quot;curso&quot;">
+      <created>1646761067181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646761067181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Adição das classes &quot;mentoria&quot; e &quot;curso&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição das classes &quot;mentoria&quot; e &quot;curso&quot;" />
   </component>
 </project>
